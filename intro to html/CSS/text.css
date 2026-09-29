@@ -1,0 +1,56 @@
+.talking-tech{
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: bold;
+    width: 280px;
+   line-height: 24px;
+    margin-bottom: 5px;
+  }
+
+
+
+  .dot-button{
+    font-family: roboto;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+
+
+  .marques-brownlee{
+    color: rgb(96, 96, 96);
+    font-family: arial;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+
+
+  .AI-button{
+    font-family: roboto;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 270px;
+    line-height: 20px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+  }
+
+
+
+  .paragraph-button{
+    font-family: roboto;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+   padding-bottom: 20px;
+  }
+  .span-underline:hover{
+  cursor: pointer;
+  text-decoration: underline;
+  }
